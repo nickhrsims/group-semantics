@@ -19,7 +19,7 @@ To better understand this concept, the following clarifications are made:
 - The relationship between a **participant** and it's associated **group** is
   represented (if by no other means, at minimum) by it's **membership**.
 
-- Insert a **participant** into a **group** is referred to as **issuing** a
+- Inserting a **participant** into a **group** is referred to as **issuing** a
   **membership**.
 
 - Removing a **participant** from a **group** is referred to as **revoking** a
