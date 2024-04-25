@@ -131,4 +131,6 @@ iterated upon at all times.
 
 Note also that a **group's** definition does not include _how_ that data is
 accessed or used later. These things are not important for a collection to
-qualify as having **group semantics**
+qualify as having **group semantics**. It is, however, important to consider
+that **group semantics** does not make sense for all collection-like types.
+(conceptually this makes no sense for use in, say, a stack or a set).
